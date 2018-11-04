@@ -60,3 +60,7 @@ form .form-control{
 form .form-control:focus{
  box-shadow: 0;
 }
+
+.li-img {
+  max-width: 50px;
+}
