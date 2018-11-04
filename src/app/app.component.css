@@ -30,6 +30,8 @@ form .data li{
  margin: 1em auto;
  color: #666;
  font-family: "Raleway";
+ list-style: none;
+ margin-left: -38px;
 }
 form .data li i{
     float: right;
